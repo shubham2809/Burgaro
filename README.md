@@ -102,7 +102,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Authors
 
-* **Shubham Doedia** - *Initial work* - [ShubhamD](https://github.com/shubham2809)
+* **Shubham Deodia** - *Initial work* - [ShubhamD](https://github.com/shubham2809)
 
 ## Acknowledgments
 Project was guided under Udemy Tutorial : [React 16](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/v4/)
